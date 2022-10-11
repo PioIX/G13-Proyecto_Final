@@ -24,3 +24,22 @@ Aclaraciones:
 - No se pueden lanzar más de 2 cartas en un mismo turno (a no ser que sea un Carta Ronda o una Carta Saltar si juegan 2 personas).
 - Un jugador puede responder a una Carta +2 ó +4 con las mismas para sumar el valor de las cartas a agregar.
 - No se puede terminar una partida con una Carta Cambio de Color, Carta +4 o Carta Cambio de Color Random.
+
+# Maquetacion
+
+![image](https://user-images.githubusercontent.com/100933997/195208947-13cb8ad9-dc91-429f-87bc-0bf932ebb2d3.png)
+![image](https://user-images.githubusercontent.com/100933997/195209015-bd70cb32-20bc-43d3-a364-e6c927314d25.png)
+![image](https://user-images.githubusercontent.com/100933997/195209070-49e51362-66e5-4f8b-9186-d1e54c964df4.png)
+![image](https://user-images.githubusercontent.com/100933997/195209169-69816124-ecc8-419d-8245-25aea571ad4b.png)
+![image](https://user-images.githubusercontent.com/100933997/195209257-d82d4532-1ec3-457b-9fcd-2b66560bc685.png)
+![image](https://user-images.githubusercontent.com/100933997/195209378-83db56fe-0323-4a83-bfab-e30e6815aca0.png)
+![image](https://user-images.githubusercontent.com/100933997/195209445-18ba2141-cd52-45ea-b4d4-3916d8f63cb0.png)
+![image](https://user-images.githubusercontent.com/100933997/195209494-31a34dfe-e95f-4856-b509-937ae159032e.png)
+![image](https://user-images.githubusercontent.com/100933997/195209580-b217cc36-1f9b-4e0b-979f-e1e3545e920d.png)
+![image](https://user-images.githubusercontent.com/100933997/195209713-658e9a97-0c34-4d5c-a634-2628e1ae6484.png)
+
+
+
+
+
+
