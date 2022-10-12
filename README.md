@@ -1,7 +1,7 @@
 # ProyectoFinalG13
 
 ## Estructura de la Base de Datos:
-![image](https://user-images.githubusercontent.com/100931984/194046956-7dd78517-43f7-4007-b8a8-5d61871e0d74.png)
+![image](BDD.jpg)
 
 ## Reglas:
 El objetivo del juego es deshacerse de todas las cartas que tengamos hasta quedarnos con ninguna. Y al tener una carta en la mano debemos tocar el botón "Uno", puesto que si no lo hacemos y nuestros rivales lo advierten, nos penalizaran haciéndonos robar otras 4 cartas del mazo.
@@ -37,9 +37,6 @@ Aclaraciones:
 ![image](https://user-images.githubusercontent.com/100933997/195209494-31a34dfe-e95f-4856-b509-937ae159032e.png)
 ![image](https://user-images.githubusercontent.com/100933997/195209580-b217cc36-1f9b-4e0b-979f-e1e3545e920d.png)
 ![image](https://user-images.githubusercontent.com/100933997/195209713-658e9a97-0c34-4d5c-a634-2628e1ae6484.png)
-
-
-
 
 
 
