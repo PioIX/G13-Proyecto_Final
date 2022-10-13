@@ -17,7 +17,7 @@ En el juego existen cartas especiales o comodines que tienen bonuses distintos:
 Cartas espciales en nuestra versión:
 - Carta Ronda: salta toda una ronda, haciendo que el juegador que la tiro la vuelva a tirar.
 - Carta Cambio de Color Random: cambia el color de la siguiente carta a uno random.
-- Carta -3: cuando te toca esta carta, te suma +3 cartas a TU mazo.
+- Carta -3: cuando te toca esta carta, te suma +3 cartas a TU mazo. Esta carta no se tira, se deja abajo del mazo.
 - Carta Destinatario: elegí a que persona le sigue el turno (no podes elegirte a vos mismo). La ronda continuará desde esa persona.
 
 Aclaraciones:
