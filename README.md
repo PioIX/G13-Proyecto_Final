@@ -38,8 +38,4 @@ Aclaraciones:
 ![image](https://user-images.githubusercontent.com/100933997/195209580-b217cc36-1f9b-4e0b-979f-e1e3545e920d.png)
 ![image](https://user-images.githubusercontent.com/100933997/195209713-658e9a97-0c34-4d5c-a634-2628e1ae6484.png)
 
-
-
-
-
-
+# [Link Replit[(https://replit.com/@FranSchendel/Proyecto-Final#main.py)
